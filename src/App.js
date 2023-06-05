@@ -35,7 +35,7 @@ function App() {
                 Kids OK (9pm curfew) <br/>
                 No Gifts ... <br/>
                 Donations welcome: <br/>
-                <a href="https://beyond-bars.org/">Donate to Booke Beyond Bars</a> <br/>
+                <a href="https://beyond-bars.org/">Donate to Books Beyond Bars</a> <br/>
                 <a href="https://www.sparkle.org.uk/">Donate to Sparkle</a>
               </p>
             </div>
