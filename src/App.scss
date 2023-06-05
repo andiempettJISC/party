@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+// Override default variables before the import
+// $body-bg: #e0218a;
+$primary: #f797cf;
+$secondary: #a62903;
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
