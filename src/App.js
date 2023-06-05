@@ -11,7 +11,7 @@ function App() {
     <main>
       <div class="container py-4">
 
-        <div class="p-5 mb-4 bg-primary text-white rounded-5 text-center">
+        <div class="p-5 mb-3 bg-primary text-white rounded-5 text-center">
           <div class="container-fluid py-5">
             <h1 class="display-4 fw-bold">JOSIE & ANDI</h1>
             <h2 class="fs-4 text-center">Join us to celebrate <br /> 10 years of marriage <br />
@@ -19,7 +19,7 @@ function App() {
           </div>
         </div>
 
-        <div class="row align-items-md-stretch">
+        <div class="row align-items-md-stretch gy-3">
           <div class="col-md-4">
             <div class="h-100 d-flex fs-4 bg-light rounded-5">
               <button class="btn btn-primary btn-lg btn-block text-white flex-fill rounded-5" type="button" role="link" onClick={() => openInNewTab("https://forms.gle/9Eg8c6L9dhqs9Y868")}><h2>RSVP</h2></button>
