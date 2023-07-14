@@ -28,7 +28,9 @@ function App() {
 
           <div class="col-md-4">
             <div class="h-100 p-5 text-white bg-secondary rounded-5">
-              <h2>2pm 'till late</h2>
+              <h3>2pm welcome</h3>
+              <h3>3pm ceremony</h3>
+              <h3>4pm pizza</h3>
               <h2>Derby Brewery Arms</h2>
               <a class="link-underline-opacity-0 link-light link-underline-opacity-100-hover" href="https://goo.gl/maps/fjUS1EdKVxkantNcA?coh=178571&entry=tt"><h2>95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY</h2></a>
             </div>
@@ -42,6 +44,7 @@ function App() {
                 No Gifts ... <br />
                 Donations welcome: <br />
                 <a href="https://beyond-bars.org/">Donate to Books Beyond Bars</a> <br />
+                <a href="https://www.instagram.com/transmutualaidmanchester/">Donate to Trans mutual aid manchester</a> <br />
                 <a href="https://www.sparkle.org.uk/">Donate to Sparkle</a>
               </p>
             </div>
